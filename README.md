@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ajdeevs/ajdeevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=bhawnaniankit)
+<br/>
 
-Here are some ideas to get you started:
+```diff
++                                                        +
++   ████████ █  Hello!                                   +
++   █        █                                           +
++   ██████████  My name is ajdevs!                       +
++   █        █                                           +
++   ████████ █  And YOU are visiting my Github Profile.  +
++            █                                           +
++   ██████████  I love binaries!                         +
++   █        █                                           +
++   ██████████                                           +
++                                                        +
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+come find me at [ajdevs.xyz](https://ajdevs.xyz) <br/>
+I write sometimes [blog.ajdevs](https://blog.ajdevs,xyz)
