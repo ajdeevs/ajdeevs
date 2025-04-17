@@ -17,4 +17,4 @@
 ```
 
 come find me at [ajdevs.xyz](https://ajdevs.xyz) <br/>
-I write sometimes [blog.ajdevs](https://blog.ajdevs,xyz)
+I write sometimes [blog.ajdevs](https://blog.ajdevs.xyz)
